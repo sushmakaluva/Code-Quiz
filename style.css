@@ -1,0 +1,30 @@
+body {
+  background-color: steelblue;
+}
+
+.container {
+  margin-top: 50px;
+  height: 400px;
+  background-color: paleturquoise;
+}
+
+h3 {
+  text-align: center;
+  margin-top: 70px;
+}
+
+#score {
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#correctAnswers {
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style-type: none;
+}
