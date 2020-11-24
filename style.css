@@ -1,11 +1,12 @@
 body {
-  background-color: steelblue;
+  background: url("yellow_bck.jpg");
+  background-size: cover;
 }
 
 .container {
   margin-top: 50px;
   height: 400px;
-  background-color: paleturquoise;
+  background-image: linear-gradient(to top, #c79081 0%, #dfa579 100%);
 }
 
 h3 {
