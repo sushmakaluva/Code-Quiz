@@ -35,4 +35,4 @@
 - Strings, Arrays, Loops, Objects
 - Sorting
 
-![Screenshot](website.png)
+![Screenshot](website_home.png)
